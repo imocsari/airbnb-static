@@ -1,0 +1,11 @@
+/* Footer design */
+/* line 3, /home/imocsari/code/imocsari/airbnb-static/source/stylesheets/components/footer.scss */
+.footer {
+  background: #565a60;
+  padding: 70px 30px;
+  margin-bottom: 0; }
+
+/* line 8, /home/imocsari/code/imocsari/airbnb-static/source/stylesheets/components/footer.scss */
+.list-inline a {
+  font-size: 18px;
+  color: white; }
