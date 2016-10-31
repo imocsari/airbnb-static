@@ -1,0 +1,18 @@
+paris:
+  name: Paris
+  owner: Sebastian
+  user_img: seb.jpg
+  description: Charming room with patio
+  owner_img: images/card-paris.jpg
+london:
+  name: London
+  owner: Anne
+  user_img: anne.jpg
+  description: Charming room with patio
+  owner_img: images/card-london.jpeg
+brussels:
+  name: Brussels
+  owner: Romain
+  user_img: romain.jpeg
+  description: Charming room with patio
+  owner_img: images/card-brussels.jpeg

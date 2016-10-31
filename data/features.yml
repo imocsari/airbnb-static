@@ -1,0 +1,17 @@
+discover:
+  picture: globe.png
+  title: globe
+  description: globe
+pay:
+  picture: dollar.png
+  title: dollar
+  description: dollar
+heart:
+  picture: heart.png
+  title: heart
+  description: heart
+
+beer:
+  picture: beer.png
+  title: beer
+  description: beer
